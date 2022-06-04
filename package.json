@@ -1,0 +1,19 @@
+{
+  "name": "teddymath",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "map": "tiled --export-map artwork/teddymath.tmx public/assets/levels@1.json && node tiled-map-helper.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@jostein-skaar/common-game": "^2.5.0",
+    "phaser": "^3.60.0-beta.8"
+  }
+}

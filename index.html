@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="nb">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preload" as="image" href="loader.svg" />
+    <!-- AUTOMATISK START -->
+    <title>Teddymath</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/teddymath-icon-32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/teddymath-icon-180.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#0066ff" />
+    <!-- AUTOMATISK FERDIG -->
+  </head>
+  <body>
+    <script type="module" src="/src/main.ts"></script>
+
+    <div id="loader" style="height: 100vh; display: flex; justify-content: center; align-items: center">
+      <img src="loader.svg" style="display: block; width: 75vh; height: 75vw" />
+    </div>
+    <div id="home" style="display: none">
+      <h1>Teddy Math</h1>
+      <p>Teddy er på eventyr for å lære gangetabellen. Hjelp ham til å få riktige svar.</p>
+      <p>Trykk for å hoppe.</p>
+      <button class="start">Start</button>
+    </div>
+    <div id="game" style="display: none"></div>
+    <div style="position: absolute; bottom: 10px; right: 10px; padding: 3px; opacity: 0.5; font-size: 0.6rem">{VERSJON}</div>
+  </body>
+</html>
