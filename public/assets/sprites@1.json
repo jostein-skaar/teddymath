@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 102,
-				"h": 304
+				"h": 152
 			},
 			"scale": 0.25,
 			"frames": [
@@ -46,7 +46,7 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 153,
+						"y": 1,
 						"w": 100,
 						"h": 150
 					}
@@ -57,6 +57,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:a9af1a553819b7d79ac8aae704b6d21e:2c24ef16d623ad183a736f82c26668de:4a9bf2ba9afc2827dfa178a3fc41fa73$"
+		"smartupdate": "$TexturePacker:SmartUpdate:3bb97fdb01b5748d46053052767d6df9:d3b360f03c22445b8053a11f8b0d8ac4:4a9bf2ba9afc2827dfa178a3fc41fa73$"
 	}
 }

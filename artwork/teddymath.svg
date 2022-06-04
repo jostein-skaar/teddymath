@@ -36,11 +36,23 @@
   <defs
      id="defs2">
     <rect
+       x="8"
+       y="18"
+       width="84"
+       height="144"
+       id="rect2622" />
+    <rect
        x="46"
        y="455"
        width="215"
        height="147"
        id="rect2515" />
+    <rect
+       x="8"
+       y="18"
+       width="84"
+       height="144"
+       id="rect2622-3" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -61,13 +73,6 @@
        x="0"
        y="0" />
     <rect
-       style="fill:#d40000;stroke-width:1.51181"
-       id="rect2191-2"
-       width="100"
-       height="150"
-       x="150"
-       y="0" />
-    <rect
        style="fill:#784421;stroke-width:1.51181"
        id="rect2459"
        width="200"
@@ -83,10 +88,55 @@
        transform="translate(-53.980469,-10.673718)"><tspan
          x="82.214844"
          y="498.67372"
-         id="tspan2616">Teddy
+         id="tspan2693">Teddy
 </tspan><tspan
          x="90.183594"
          y="558.67372"
-         id="tspan2618">Math</tspan></text>
+         id="tspan2695">Math</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2620"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2622);stroke-width:0.52528"
+       x="23.689453"
+       y="0"
+       transform="matrix(2.216304,0,0,1.635268,-62.342585,-21.423152)"><tspan
+         x="36.652344"
+         y="39.836859"
+         id="tspan2697">TE
+</tspan><tspan
+         x="32.480469"
+         y="69.836859"
+         id="tspan2699">DD
+</tspan><tspan
+         x="43.208984"
+         y="99.836859"
+         id="tspan2701">Y
+</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:1.51181"
+       id="rect2191-3"
+       width="100"
+       height="150"
+       x="150"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="text2620-1"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2622-3);stroke-width:0.52528"
+       x="23.689453"
+       y="0"
+       transform="matrix(2.216304,0,0,1.635268,87.65742,-21.423152)"><tspan
+         x="36.652344"
+         y="39.836859"
+         id="tspan2703">TE
+</tspan><tspan
+         x="32.480469"
+         y="69.836859"
+         id="tspan2705">DD
+</tspan><tspan
+         x="43.208984"
+         y="99.836859"
+         id="tspan2707">Y
+</tspan></text>
   </g>
 </svg>

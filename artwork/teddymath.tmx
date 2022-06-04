@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.8" tiledversion="1.8.5" orientation="orthogonal" renderorder="right-down" width="100" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+<map version="1.8" tiledversion="1.8.5" orientation="orthogonal" renderorder="right-down" width="100" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="1">
  <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="54" columns="9">
   <image source="../../common-game/assets/tiles@1.png" width="306" height="204"/>
   <tile id="0">
