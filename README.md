@@ -2,6 +2,8 @@
 
 Lær matte med Teddy
 
+Status: Kom ikke i mål. Det er muligens noe kode her rundt det å generere matteproblemer som kan jobbes videre med.
+
 ## Colors
 
 - Brown #674B38
